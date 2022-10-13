@@ -10,5 +10,5 @@
   <img align="center" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="right" alt="Ray" height="150" style="border-radius:50px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F732749801862807502%2F&psig=AOvVaw0BmrTR4Gja8Bn-jFAjFe_V&ust=1665764160396000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCMCZmpvN3foCFQAAAAAdAAAAABAD">
+  <img align="right" alt="Ray" height="150" style="border-radius:50px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fone-piece-rayleigh-gifs&psig=AOvVaw0BmrTR4Gja8Bn-jFAjFe_V&ust=1665764160396000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCMCZmpvN3foCFQAAAAAdAAAAABAX">
 </div>
