@@ -10,5 +10,5 @@
   <img align="center" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="right" alt="Obanai" height="150" style="border-radius:50px;" src="https://pa1.narvii.com/7922/4854a198e665f2bf7bf86ce1b69274a843baf30cr1-520-256_hq.gif">
+  <img align="right" alt="Ray" height="150" style="border-radius:50px;" src="[https://i.pinimg.com/originals/c8/5c/8b/c85c8b337f7ca858c79da1705f4beebc.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F732749801862807502%2F&psig=AOvVaw0BmrTR4Gja8Bn-jFAjFe_V&ust=1665764160396000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCMCZmpvN3foCFQAAAAAdAAAAABAD)">
 </div>
