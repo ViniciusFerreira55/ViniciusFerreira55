@@ -20,6 +20,7 @@
   <img align="center" height="80" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" height="80" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" height="80" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" height="80" width="90" img src="https://img.icons8.com/color/480/filmora.png" />
   <img align="right" alt="ray"  src="https://i.pinimg.com/originals/c8/5c/8b/c85c8b337f7ca858c79da1705f4beebc.gif">
   
   
