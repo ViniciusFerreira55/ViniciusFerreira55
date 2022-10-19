@@ -24,5 +24,6 @@
   <img align="center" height="80" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" height="80" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" height="80" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="center" height="80" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="right" alt="ray"  src="https://i.pinimg.com/originals/c8/5c/8b/c85c8b337f7ca858c79da1705f4beebc.gif">
 </div>
