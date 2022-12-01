@@ -2,9 +2,9 @@
 - 🌱 Estudando Gestão de TI
 <div align="center">
   <a href="https://github.com/ViniciusFerreira55">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusFerreira55&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusFerreira55&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusFerreira55&layout=compact&langs_count=7&theme=dark"/>
-</div> -->
+</div>
 <div style="display: inline_block"><br>
   <img align="center" height="80" width="90" img src="https://img.icons8.com/color/480/filmora.png" />
   <img align="center" height="80" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
