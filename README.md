@@ -37,3 +37,5 @@
   <img align="right" alt="ray"  src="https://i.pinimg.com/originals/c8/5c/8b/c85c8b337f7ca858c79da1705f4beebc.gif">
   
 </div>
+
+ Um macho sigma é um homem que não precisa da aprovação de outras pessoas. Ele não é barulhento ou abusado, mas tranquilo e controlado. Um macho sigma é um cara introvertido, mas confiante. Os homens com esse perfil fogem do senso comum e normalmente não se encaixam em grupos, porque eles próprios são incomuns.
