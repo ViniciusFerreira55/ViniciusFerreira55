@@ -3,7 +3,7 @@
 # 💫 Welcome to my profile:
 🔭 I’m currently teaching programming<br>
 🌱 I’m currently learning Java Spring Boot<br>
-
+⚡ Fun fact: I'm the creator of Marcelo CGI
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vin%C3%ADcius-jos%C3%A9-ferreira-6040b521b/) 
