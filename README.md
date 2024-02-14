@@ -2,7 +2,7 @@
  
 # 💫 Welcome to my profile:
 🔭 I’m currently teaching programming<br>
-🌱 I’m currently learning Java Spring Boot<br>
+🌱 I’m currently just improving my python skilss<br>
 ⚡ Fun fact: I'm the creator of Marcelo CGI
 
 # 💻 Tech Stack:
